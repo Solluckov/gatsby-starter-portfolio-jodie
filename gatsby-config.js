@@ -5,7 +5,7 @@ const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE
 
 module.exports = {
   siteMetadata: {
-    siteTitleAlt: `Jodie - Gatsby Starter Portfolio`,
+    siteTitleAlt: `Хуй Jodie - Gatsby Starter Portfolio`,
   },
   plugins: [
     {
@@ -15,7 +15,7 @@ module.exports = {
         navigation: [
           { name: `Projects`, slug: `/projects` },
           { name: `Art`, slug: `/art` },
-          { name: `About`, slug: `/about` },
+          { name: `Хуй`, slug: `/dick` },
         ],
       },
     },
@@ -46,7 +46,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `jodie - @lekoarts/gatsby-theme-jodie`,
+        name: `Хуй jodie - @lekoarts/gatsby-theme-jodie`,
         short_name: `jodie`,
         description: `Image-heavy photography portfolio with colorful accents & customizable pages. Includes adaptive image grids powered by CSS grid and automatic image integration into projects.`,
         start_url: `/`,
